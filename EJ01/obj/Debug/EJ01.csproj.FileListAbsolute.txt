@@ -1,0 +1,6 @@
+C:\Users\GermanGP088\Documents\Visual Studio 2017\Projects\TP02\EJ01\bin\Debug\EJ01.exe.config
+C:\Users\GermanGP088\Documents\Visual Studio 2017\Projects\TP02\EJ01\bin\Debug\EJ01.exe
+C:\Users\GermanGP088\Documents\Visual Studio 2017\Projects\TP02\EJ01\bin\Debug\EJ01.pdb
+C:\Users\GermanGP088\Documents\Visual Studio 2017\Projects\TP02\EJ01\obj\Debug\EJ01.csprojResolveAssemblyReference.cache
+C:\Users\GermanGP088\Documents\Visual Studio 2017\Projects\TP02\EJ01\obj\Debug\EJ01.exe
+C:\Users\GermanGP088\Documents\Visual Studio 2017\Projects\TP02\EJ01\obj\Debug\EJ01.pdb
